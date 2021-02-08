@@ -1,0 +1,20 @@
+.logo{width: 100px;
+    margin-left: 15%;
+}
+.nav-link{
+    color: black;
+    font-size: 22px;
+    font-weight: 600;
+}
+.submit {
+	background-color: tomato;
+	color: #fff;
+	border: none;
+	padding: 5px 18px;
+	margin-left: -4px;
+}
+input{
+    border:none;
+    background-color: #ddd;
+    padding: 5px 10px;
+}
